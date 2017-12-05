@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\lpoon2\AndroidStudioProjects\livestream_test\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="C:\Users\lpoon2\AndroidStudioProjects\livestream_test\app\build\intermediates\pre-dexed\debug\classes-ea1254e07ab656fa851ab5ad43aeb6bd444995a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\lpoon2\AndroidStudioProjects\livestream_test\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="C:\Users\lpoon2\AndroidStudioProjects\livestream_test\app\build\intermediates\pre-dexed\debug\classes-ae2dafe0fc58686191cf4d53e031c6b7a1fb03f6.jar" />
+    </item>
+    <item
+        jar="C:\Users\lpoon2\AndroidStudioProjects\livestream_test\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="C:\Users\lpoon2\AndroidStudioProjects\livestream_test\app\build\intermediates\pre-dexed\debug\classes-ab2f3fa1afd2b352fb4ebe0b138b04dc45364f06.jar" />
+    </item>
+    <item
+        jar="C:\Users\lpoon2\AndroidStudioProjects\livestream_test\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="C:\Users\lpoon2\AndroidStudioProjects\livestream_test\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0-ed45f94fe865fea10dbedae2994a6501b40cb96c.jar" />
+    </item>
+    <item
+        jar="C:\Users\lpoon2\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="C:\Users\lpoon2\AndroidStudioProjects\livestream_test\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0-cf9cc4d1dabef899542e2a0dd2f0b1c4dc0c4d36.jar" />
+    </item>
+    <item
+        jar="C:\Users\lpoon2\AndroidStudioProjects\livestream_test\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="C:\Users\lpoon2\AndroidStudioProjects\livestream_test\app\build\intermediates\pre-dexed\debug\classes-a668deda01563ac21a1e620adb6aed2177a1ecac.jar" />
+    </item>
+
+</items>
